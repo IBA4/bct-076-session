@@ -17,9 +17,3 @@ Covered Topics:
 6. GitHub and GitLab
 7. Intregrating GitHub and GitLab in Discord
 8. Creating Pull Request
-
-
-
-this line was added
-
-new line added
